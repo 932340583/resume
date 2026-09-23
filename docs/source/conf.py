@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '程亮的个人简历-12年运维经验'
+project = '程亮的个人简历_12年运维经验'
 copyright = '2026, 程亮'
 author = '程亮'
 release = '20260923'

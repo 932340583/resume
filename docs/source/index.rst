@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-程亮的个人简历-12年运维经验
+程亮的个人简历_12年运维经验
 =========================================
 您好，很荣幸您查看我的简历，以下是我的个人信息。
 
