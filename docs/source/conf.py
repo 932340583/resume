@@ -26,3 +26,5 @@ language = 'zh_CN'
 
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
+
+latex_theme = 'howto'
