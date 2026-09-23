@@ -11,7 +11,11 @@
 .. toctree::
    :maxdepth: 1
    :caption: 目录:
-   :glob:
 
-   personal/*
+
+   personal/1_info
+   personal/2_sumary
+   personal/3_exp
+   personal/4_edu
+   personal/5_work
 
