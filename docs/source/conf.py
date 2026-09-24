@@ -9,7 +9,7 @@
 project = '程亮的个人简历_12年运维经验'
 copyright = '2026, 程亮'
 author = '程亮'
-release = '20260923'
+release = '面试简历'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -26,5 +26,3 @@ language = 'zh_CN'
 
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
-
-latex_theme = 'howto'
